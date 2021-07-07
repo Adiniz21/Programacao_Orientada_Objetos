@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1600133568 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto7\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"projeto7.h"
+
+1600131739 d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto7\projeto7.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1600131927 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto7\projeto7.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"projeto7.h"
+

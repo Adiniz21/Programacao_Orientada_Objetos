@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1598657256 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto3\main.cpp
+	<iostream>
+	<string>
+	"projeto3.h"
+
+1598657256 d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto3\projeto3.h
+	<iostream>
+	<string>
+
+1598657268 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto3\projeto3.cpp
+	<iostream>
+	<string>
+	"projeto3.h"
+

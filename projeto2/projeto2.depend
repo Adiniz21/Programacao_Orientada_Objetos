@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1598318145 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto2\main.cpp
+	<iostream>
+	<string>
+	"projeto2.h"
+
+1598653880 d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto2\projeto2.h
+	<iostream>
+	<string>
+
+1598653832 source:d:\arthur\desktop\fip moc\6 período\análise e programação orientada a objetos\projeto2\projeto2.cpp
+	<iostream>
+	<string>
+	"projeto2.h"
+
