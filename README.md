@@ -1,2 +1,2 @@
 # Programacao_Orientada_Objetos
-Todos os códigos feitos dentro do semestre para o aprendizado de programação orientada a objetos
+Parte 1 dos códigos feitos na matéria de programação a objetos
